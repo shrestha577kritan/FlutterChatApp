@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145084495345",
+    "project_id": "smaplechat-5dcdc",
+    "storage_bucket": "smaplechat-5dcdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145084495345:android:4feb6534dc7e63e799c050",
+        "android_client_info": {
+          "package_name": "com.example.flutterrun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145084495345-iq7gv4ro2jb9r4l19lja4nk19s6ua05n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVEsTtCZ81F-uW3o7rhrQSp1FtkLMIoaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145084495345-iq7gv4ro2jb9r4l19lja4nk19s6ua05n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
